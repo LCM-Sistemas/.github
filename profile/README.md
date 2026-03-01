@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://lcmsistemas.com.br/wp-content/uploads/2026/02/engenharia-software-alto-impacto-lcm-sistemas.png" 
+       alt="LCM Sistemas - Desenvolvimento de Software e Arquitetura de Sistemas"
+       width="100%">
+</p>
+
 # 🚀 LCM Sistemas | Desenvolvimento de Software e Arquitetura de Sistemas
 
 A **LCM Sistemas** é uma empresa especializada em **Desenvolvimento de Software Sob Medida**, Arquitetura de Sistemas, Integrações de Pagamento e Soluções Digitais de Alta Performance.
