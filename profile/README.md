@@ -1,5 +1,3 @@
----
-
 # 🚀 LCM Sistemas | Desenvolvimento de Software e Arquitetura de Sistemas
 
 A **LCM Sistemas** é uma empresa especializada em **Desenvolvimento de Software Sob Medida**, Arquitetura de Sistemas, Integrações de Pagamento e Soluções Digitais de Alta Performance.
@@ -7,7 +5,7 @@ A **LCM Sistemas** é uma empresa especializada em **Desenvolvimento de Software
 🌐 Site Oficial:
 👉 [https://lcmsistemas.com.br/](https://lcmsistemas.com.br/)
 
----
+<br><hr><br>
 
 ## 🏢 Sobre a LCM Sistemas
 
